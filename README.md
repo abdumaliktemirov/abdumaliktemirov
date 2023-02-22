@@ -1,4 +1,4 @@
-### Hi, I`m Abdumalik Temirov <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47va8nlvt518r97vrursydgml6ukoijgrv0xancndl&rid=giphy.gif&ct=s" width"30px">
+### Hi, I`m Abdumalik Temirov <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47va8nlvt518r97vrursydgml6ukoijgrv0xancndl&rid=giphy.gif&ct=s width"30px">
 
 <!--
 **abdumaliktemirov/abdumaliktemirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
