@@ -3,7 +3,7 @@
  I make vidoes on YouTube about softwere development. <br />
  I work remotley and like trawle a lot
  <a href="https://www.youtube.com/channel/UCXDyuiQnDTO1-zDkUa7E-Qw"
- <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" with="10px">
+ <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
 
 <!--
 **abdumaliktemirov/abdumaliktemirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
