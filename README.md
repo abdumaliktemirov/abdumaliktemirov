@@ -1,5 +1,10 @@
 ### Hi, I`m Abdumalik Temirov <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47va8nlvt518r97vrursydgml6ukoijgrv0xancndl&rid=giphy.gif&ct=s" width="40px">
 
+ I make vidoes on YouTube about softwere development. <br />
+ I work remotley and like trawle a lot
+ <a href="https://www.youtube.com/channel/UCXDyuiQnDTO1-zDkUa7E-Qw"
+ <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" with="30px">
+
 <!--
 **abdumaliktemirov/abdumaliktemirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
